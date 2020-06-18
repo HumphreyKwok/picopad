@@ -1,4 +1,4 @@
-update=17/06/2020 22:54:16
+update=18/06/2020 11:47:34
 version=1
 last_client=kicad
 [general]
@@ -34,3 +34,7 @@ LibDir=
 [eeschema/libraries]
 [ModEditFrame]
 version=1
+[SchematicFrame]
+version=1
+[sheetnames]
+1=f76df757-3264-4f49-94ad-258e85ae40ad:
