@@ -1,4 +1,4 @@
-update=18/06/2020 11:47:34
+update=18/06/2020 16:40:20
 version=1
 last_client=kicad
 [general]
@@ -32,9 +32,9 @@ NetIExt=net
 version=1
 LibDir=
 [eeschema/libraries]
-[ModEditFrame]
-version=1
 [SchematicFrame]
 version=1
 [sheetnames]
-1=f76df757-3264-4f49-94ad-258e85ae40ad:
+1=d367b630-7ab1-4b65-a830-1b176023f80b:
+[ModEditFrame]
+version=1
