@@ -1006,9 +1006,9 @@
   (junction (at 381 56.515))
   (junction (at 381 107.315))
 
+  (no_connect (at 60.325 106.045))
   (no_connect (at 214.63 262.255))
   (no_connect (at 198.755 81.915))
-  (no_connect (at 60.325 106.045))
   (no_connect (at 60.325 121.285))
 
   (wire (pts (xy 41.275 45.085) (xy 41.275 48.895))
@@ -2004,7 +2004,7 @@
 
   (symbol (lib_id "power:GND") (at 41.275 57.15 0) (unit 1)
     (uuid "c244f294-0ac6-41ec-9cde-3d920c21cf7a")
-    (property "Reference" "#PWR?" (id 0) (at 41.275 63.5 0)
+    (property "Reference" "#PWR0115" (id 0) (at 41.275 63.5 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (id 1) (at 41.3893 61.4744 0))
@@ -3519,14 +3519,14 @@
     (path "/ad852d7e-75fa-4aed-8872-6616f8d886b0"
       (reference "#PWR0114") (unit 1)
     )
+    (path "/c244f294-0ac6-41ec-9cde-3d920c21cf7a"
+      (reference "#PWR0115") (unit 1)
+    )
     (path "/a2e4ae8e-feaa-47aa-8c92-b6b45e0b015d"
       (reference "#PWR0116") (unit 1)
     )
     (path "/a6356100-e96b-4822-98cc-3304be87d343"
       (reference "#PWR0117") (unit 1)
-    )
-    (path "/c244f294-0ac6-41ec-9cde-3d920c21cf7a"
-      (reference "#PWR?") (unit 1)
     )
     (path "/3fd74ab3-488a-4791-828e-0df9d6a98412"
       (reference "C1") (unit 1)

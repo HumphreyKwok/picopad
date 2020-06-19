@@ -1,4 +1,4 @@
-update=20/06/2020 00:09:45
+update=20/06/2020 01:25:49
 version=1
 last_client=kicad
 [general]
@@ -15,7 +15,7 @@ LibDir=
 [SchematicFrame]
 version=1
 [sheetnames]
-1=887e62ad-1964-45be-952f-5aabbf709b92:
+1=64629359-7860-4fd6-a66a-b415028378eb:
 [pcbnew]
 version=1
 PageLayoutDescrFile=
