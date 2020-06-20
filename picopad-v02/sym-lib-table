@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name "MX-switches")(type "Legacy")(uri "D:/Keyboard Design/picopad/library/MX_Alps_Hybrid/Schematic Library/MX_Alps_Hybrid.lib")(options "")(descr ""))
+  (lib (name "Random-keyboard-parts")(type "Legacy")(uri "D:/Keyboard Design/picopad/library/random-keyboard-parts.pretty/Schematic Library/random-keyboard-parts.lib")(options "")(descr ""))
+  (lib (name "Type-C")(type "Legacy")(uri "D:/Keyboard Design/picopad/library/Type-C.pretty/Type-C.lib")(options "")(descr ""))
+)
